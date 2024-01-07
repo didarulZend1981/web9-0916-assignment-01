@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,300;1,400;1,700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  
+  font-family: 'Merriweather', serif; 
+}
+
+.new-year{
+  max-width: 1320px;
+  margin: 0 auto;
+  border: 1px solid red;
+  width: 82.25%;
+  height: 600px;
+  margin-top: 50px;
+  background-image: url("/images/Banner-Image.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.container{
+  max-width: 1320px;
+  margin: 0 auto;
+  border: 1px solid red;
+  width: 82.25%;
+ 
+}
+.text-algin-center{
+  text-align: center;
+}
+.banner {
+  text-align: center;
+  top: 177px;
+  position: absolute;
+  max-width: 521px;
+  width: 40%;
+ 
+  left: 30%;
+}
+.section-title {
+  color: #FFFFFF;
+  font-weight: 400;
+}
+p.banner-description {
+  font-weight: 900;
+  font-size: 60px;
+  color: #fff;
+  padding: 20px auto;
+  padding: 20px auto;
+}
+.offer{
+  height: 733px;
+  max-width: 660px;
+  width: 66%;
+  margin: 100px auto;
+  border: 2px solid black;
+  text-align: center;
+}
+.offer-get {
+  color: #F00;
+  font-size: 88px;
+  font-weight: 700;
+  margin-bottom: 48px;
+  
+}
+.deal{
+  color: #F00;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+
+}
+.category {
+  color: #070211;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+
+.offer img.new-year-offer {
+  border: 2px solid;
+  width: 100%;
+}
+
+.welcome{
+  height: 600px;
+  border: 2px solid black;
+  background-image: url("/images/Vectorrr.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.welcome-2024{
+  max-width: 1044px;
+  width: 80%;
+  margin: 0px auto;
+  display: flex;
+}
+.welcome-party {
+  max-width: 720px;
+  width: 69%;
+  top: 126px;
+  margin-top: 126px;
+  color: #fff;
+  
+ 
+}
+.party-2024{
+  max-width: 320px;
+  width: 31%;
+  margin-top: 68px;
+}
+.party-2024 img{
+  width: 100%;
+}
+.welcome-party-title{
+  
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 64px; /* 137.5% */
+letter-spacing: 7.04px;
+margin-bottom: 24px;
+}
+.welcome-perty-description{
+  color: rgba(255, 255, 255, 0.80);
+
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+margin-bottom: 60px;
+}
+.welcome-btn-primary {
+  
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: transparent;
+  color: #fff;
+  padding: 3px;
+}
+
+.event{
+  margin: 100px auto;
+  height: 482px;
+  border: 1px solid black;
+}
+.infor-event {
+  height: 256px;
+  max-width: 550px;
+  width: 42%;
+  border: 1px solid;
+  margin: 100px auto;
+  text-align: center;
+  color: #070211;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  /* line-height: 56px; */
+  /* text-transform: capitalize; */
+}
+.info-clor{
+  color: #F00;
+}
+.best-offer{
+  height: 463px;
+  border: 2px solid black;
+  margin-bottom: 100px;
+  display: flex;
+}
+.comming{
+ max-width: 393px;
+ margin-right: 70px;
+ width: 28%;
+}
+.comming-img{
+  max-width: 463px;
+  margin-right: 118px;
+  width: 35%;
+}
+.happy-new-year{
+  max-width: 276px;
+  width: 21%;
+}
+
+
+.comming-img {
+    width: 434px;
+    height: 400px;
+    border: 15px solid red;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 50%;
+    /* margin-top: 19px; */
+    padding-top: 30px;
+}
+
