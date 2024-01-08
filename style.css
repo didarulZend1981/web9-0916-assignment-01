@@ -13,7 +13,7 @@
   width: 82.25%;
   height: 600px;
   margin-top: 50px;
-  background-image: url("/images/Banner-Image.png");
+  background-image: url("images/Banner-Image.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -89,7 +89,7 @@ p.banner-description {
 .welcome{
   height: 600px;
   border: 2px solid black;
-  background-image: url("/images/Vectorrr.png");
+  background-image: url("images/Vectorrr.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
