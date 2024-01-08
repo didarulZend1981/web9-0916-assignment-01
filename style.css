@@ -201,3 +201,53 @@ margin-bottom: 60px;
     padding-top: 30px;
 }
 
+footer{
+ 
+  background-color:#070211;
+  height: 400 !important;
+  color: #fff;
+
+
+ 
+
+ 
+}
+footer>.container{
+
+  
+  padding: 120px 0px;
+}
+.row-footer{
+  display: flex;
+}
+.address {
+  
+  font-size: 14px;
+  width: 235px;
+  width: 25%;
+  line-height: 25px;
+}
+.contact{
+  margin-left: 60%;
+}
+.social-link{
+  text-align: center;
+    color: #fff;
+    width: 100%;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    padding: 15px 0px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+i.fa-brands.fa-square-facebook,i.fa-brands.fa-x-twitter,
+i.fa-brands.fa-instagram,i.fa-brands.fa-linkedin-in{
+  color: #ffff;
+  font-size: 25px;
+}
+.contact.unsub {
+  margin-left: 67%;
+}
+
+
+
