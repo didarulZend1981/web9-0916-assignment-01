@@ -150,6 +150,7 @@ margin-bottom: 60px;
   margin: 100px auto;
   height: 482px;
   border: 1px solid black;
+  
 }
 .infor-event {
   height: 256px;
@@ -247,6 +248,120 @@ i.fa-brands.fa-instagram,i.fa-brands.fa-linkedin-in{
 }
 .contact.unsub {
   margin-left: 67%;
+}
+.event-bg{
+  height: 482px;
+  border: 2px solid black;
+  background-image: url("images/Vectordidar_victor.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* holiday-offer */
+.holiday-offer{
+  height: 986px;
+  border: 2px solid green;
+  margin-bottom: 100px;
+}
+.row-holiday-infor{
+  height: 324px;
+  border: 1px solid red;
+  text-align: center;
+}
+.row-holiday-images{
+  height: 433px;
+  position: flex;
+}
+.row-holiday-image-botom{
+  height: 229px;
+  background: #F00;
+}
+.col-holiday-image{
+  max-width: 738px;
+  width: 55%;
+  border: 1px green;
+  float: left;
+}
+
+.col-holiday-50-offer{
+  /* max-width: 433px; */
+  max-width: 582px;
+  display: flex;
+  width: 44%;
+  /* background-image: url("images/Group-44.png"),url("images/Rectangle-1.png");
+  background-repeat: no-repeat;
+  background-position: center left,top left; */
+  height: 433px;
+  
+}
+img.offfer-50 {
+  border: 1px solid red;
+  height: 200px;
+  margin-right: -101px;
+  margin-top: 106px;
+  z-index: 100;
+  width: 200px;
+  margin-left: 31px;
+}
+  img.offer-pic{
+    border: 1px green;
+    
+  }
+
+  .title-holiday{
+    width: 263px;
+    height: 29px;
+    padding: 0px auto;
+    margin-bottom: 16px;
+  }
+
+    .title-holiday {
+      
+      padding: 0px auto;
+      margin-bottom: 16px;
+      margin: 0px auto;
+      color: #070211;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 500;
+  
+
+}
+span.holiday-color {
+  color: red;
+  margin-right: 10px;
+}
+.title-offer{
+  width: 677px;
+  height: 91px;
+  margin-bottom: 28px;
+  margin: 0px auto;
+  
+
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+.offer-description{
+  width: 1068px;
+  height: 96px;
+  margin: 0px auto;
+
+  color: rgba(7, 2, 17, 0.60);
+
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px; /* 160% */
+margin-top:64px;
+
+}
+img.offfer-boom {
+  width: 60%;
+  margin-top: 208px;
+  margin-left: 104px;
 }
 
 
