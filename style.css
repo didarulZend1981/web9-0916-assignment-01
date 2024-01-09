@@ -44,8 +44,14 @@
   left: 30%;
 }
 .section-title {
-  color: #FFFFFF;
-  font-weight: 400;
+  color: #FFF;
+
+
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
 p.banner-description {
   font-weight: 900;
