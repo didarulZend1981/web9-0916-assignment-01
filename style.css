@@ -13,7 +13,7 @@
 .new-year{
   max-width: 1320px;
   margin: 0 auto;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   width: 82.25%;
   height: 600px;
   margin-top: 50px;
@@ -27,7 +27,7 @@
 .container{
   max-width: 1320px;
   margin: 0 auto;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   width: 82.25%;
  
 }
@@ -59,7 +59,7 @@ p.banner-description {
   max-width: 660px;
   width: 66%;
   margin: 100px auto;
-  border: 2px solid black;
+  /* border: 2px solid black; */
   text-align: center;
 }
 .offer-get {
@@ -86,7 +86,7 @@ p.banner-description {
 }
 
 .offer img.new-year-offer {
-  border: 2px solid;
+  /* border: 2px solid; */
   width: 100%;
 }
 
@@ -153,7 +153,7 @@ margin-bottom: 60px;
 .event{
   margin: 100px auto;
   height: 482px;
-  border: 1px solid black;
+  /* border: 1px solid black; */
   
 }
 .infor-event {
@@ -259,7 +259,7 @@ footer>.container{
 }
 .event-bg{
   height: 482px;
-  border: 2px solid black;
+  /* border: 2px solid black; */
   background-image: url("images/Vectordidar_victor.png");
   background-position: center;
   background-repeat: no-repeat;
@@ -269,12 +269,12 @@ footer>.container{
 /* holiday-offer */
 .holiday-offer{
   height: 986px;
-  border: 2px solid green;
+  /* border: 2px solid green; */
   margin-bottom: 100px;
 }
 .row-holiday-infor{
   height: 324px;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   text-align: center;
 }
 .row-holiday-images{
@@ -374,7 +374,7 @@ img.offfer-boom {
 /* protfolio */
 .portfolio{
   height: 1163px;
-  border: 1px solid green;
+  /* border: 1px solid green; */
   margin-bottom: 100px;
 }
 .protfolio-description{
