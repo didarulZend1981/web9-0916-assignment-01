@@ -1,9 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,300;1,400;1,700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
 *{
   margin: 0;
   padding: 0;
   
   font-family: 'Merriweather', serif; 
+  font-family: 'Inter', sans-serif;
 }
 
 .new-year{
@@ -230,21 +234,25 @@ footer>.container{
 }
 .contact{
   margin-left: 60%;
+  
 }
+.contact>h2{
+  font-size: 15px;
+}
+
 .social-link{
   text-align: center;
     color: #fff;
     width: 100%;
-    border-top: 1px solid;
-    border-bottom: 1px solid;
+    /* border-top: 1px solid;
+    border-bottom: 1px solid; */
     padding: 15px 0px;
     margin-top: 30px;
     margin-bottom: 30px;
 }
-i.fa-brands.fa-square-facebook,i.fa-brands.fa-x-twitter,
-i.fa-brands.fa-instagram,i.fa-brands.fa-linkedin-in{
-  color: #ffff;
-  font-size: 25px;
+.social-link>a>img{
+  width: 30px;
+  height: 30px;
 }
 .contact.unsub {
   margin-left: 67%;
@@ -363,6 +371,146 @@ img.offfer-boom {
   margin-top: 208px;
   margin-left: 104px;
 }
+/* protfolio */
+.portfolio{
+  height: 1163px;
+  border: 1px solid green;
+  margin-bottom: 100px;
+}
+.protfolio-description{
+  height: 215px;
+}
+.protfolio-title{
+  height: 29px;
+  margin-bottom: 16PX;
+  color: #F00;
+  font-size: 24px;
+  font-weight: 500;
+ 
+}
+.portfoli-shot{
+  height: 60px;
+  margin-bottom: 22px;
+  color: #070211;
+
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    
+    text-transform: capitalize;
+}
+.portfoli-desc{
+  height: 64px;
+  color: rgba(7, 2, 17, 0.60);
+
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; /* 160% */
+}
+.product-image{
+  height: 924px;
+}
+.product-row{
+  display: flex;
+  gap:24px;
+  margin-top: 24px;
+}
+img.product-col {
+  max-width: 424px;
+  width: 32%;
+  height: 450px;
+}
+.img.product-col:hover{
+  color:#070211;
+}
+.subscribe{
+  
+    height: 615px;
+    background-image: url(images/Group-65bg.png);
+    padding: 80px 212px;
+    text-align: center;
+    background-repeat: no-repeat;
+}
+.subscribe img{
+  width: 150px;
+  height: 150px;
+  margin-bottom: 40px;
+}
+.subscrib-title{
+  color: #070211;
+
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.subscrib-description{
+  color: rgba(7, 2, 17, 0.60);
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+margin-bottom: 48px;
+}
+.sub-form{
+  width: 648px;
+  height: 72px;
+  margin:0 auto;
+  background: #FFF;
+  border-radius: 50px 50px 50px 50px;
+  border: 1px solid #fff;
+}
+
+.sub-form input[type="email"] {
+  width: 645px;
+  height: 72px;
+  border-radius: 50px 50px 50px 50px;
+  background: #FFF;
+  float: left;
+  text-align: left;
+  border: 1px solid #fff;
+ 
+}
+
+
+
+
+button.btn-primary {
+    width: 210px;
+    height: 73px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    float: right;
+    margin-top: -74px;
+
+
+    color: #FFF;
+
+
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+
+.Call,.Website{
+  width: 15px;
+    height: 15px;
+
+}
+
 
 
 
